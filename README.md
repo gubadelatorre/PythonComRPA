@@ -5,6 +5,17 @@
 # *Definição:*
 Automação Robótica de Processos  (Robotic Process Automation - RPA) é um termo genérico para ferramentas que operam em interface do usuário de outros sistemas de computador para imitar o comportamento humano em tarefas repetitivas. RPA visa substituir as pessoas por automação feita de maneira “de fora para dentro” (VAN DER AALST, 2018).  
 
+# *Propósito e aplicações*
+* Captura de documentos e transformação em dados estruturados;
+* Download/upload de arquivos;
+* Envio e recebimento de e-mails;
+* Extração de informações de outros sistemas, abastecendo o sistema interno (capturar informações contidas em planilhas, arquivos, textos ou PDF)
+* Gerenciamento de eventos;
+* Integração entre sistemas s/ necessidade de desenvolvolvimento ou customização;
+* Preenchimento de formulários e/ou digitações em sites ou sistemas com informações obtidas de diferentes fontes;
+* Verificação e comparação de conteúdo entre duas ou mais fontes distintas de documentos;
+* Processos com tarefas repetitivas em geral...
+
 # *Referências Bibliográficas*
 AGATON, BJÖRN; SWEDBERG, GUSTAV. Evaluating and Developing Methods to Assess Business Process Suitability for Robotic Process Automation. Department of Computer Science and Engineering, 2018.
 
