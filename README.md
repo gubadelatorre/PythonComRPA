@@ -39,6 +39,6 @@ SYED, Rehan et al. Robotic Process Automation: Contemporary themes and challenge
 
 TELI, Ruchira; PRASAD, Suneel Kumar. Delivering Value in Procurement With Robotic Cognitive Automation (RCA) Services. In: Robotic Systems: Concepts, Methodologies, Tools, and Applications. IGI Global, 2020. p. 1773-1785.
 
-Tornbohm C (2017) Gartner market guide for robotic process automation software. Report G00319864. Gartner
+TORNBOHN C (2017) Gartner market guide for robotic process automation software. Report G00319864. Gartner
 
 VAN DER AALST, Wil MP; BICHLER, Martin; HEINZL, Armin. Robotic process automation. 2018.
