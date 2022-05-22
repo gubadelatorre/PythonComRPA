@@ -1,4 +1,33 @@
-# Introdução a Python com RPA
+# Introdução a Linguagem Python com RPA
 ## Prof. Massaki de Oliveira Igarashi (prof.massaki@gmail.com)
 ![IMAGEM1](https://github.com/massakiigarashi2/PythonComRPA/blob/main/evento1.jpg)
-![Imagem2](https://github.com/massakiigarashi2/PythonComRPA/blob/main/01%20-%20Introdu%C3%A7%C3%A3o%20a%20Linguagem%20Python%20-%20Parte1%20-%20Versao%204.0.pdf)
+
+# *Definição:*
+Automação Robótica de Processos  (Robotic Process Automation - RPA) é um termo genérico para ferramentas que operam em interface do usuário de outros sistemas de computador para imitar o comportamento humano em tarefas repetitivas. RPA visa substituir as pessoas por automação feita de maneira “de fora para dentro” (VAN DER AALST, 2018).  
+
+# *Referências Bibliográficas*
+AGATON, BJÖRN; SWEDBERG, GUSTAV. Evaluating and Developing Methods to Assess Business Process Suitability for Robotic Process Automation. Department of Computer Science and Engineering, 2018.
+
+AGOSTINELLI, Simone; MARRELLA, Andrea; MECELLA, Massimo. Towards Intelligent Robotic Process Automation for BPMers. arXiv preprint arXiv:2001.00804, 2020.
+
+AGUIRRE S, Rodriguez A. Automation of a business process using robotic process automation (RPA): a case study. Appl Comput Sci Eng Commun Comput Inf Sci, 2017. https://doi.org/10. 1007/978-3-319-66963-2_
+
+FERREIRA, Deborah et al. On the Evaluation of Intelligence Process Automation. arXiv preprint arXiv:2001.02639, 2020.
+
+HERBERT, I.; DHAYALAN, A.; SCOTT, A. The future of professional work: Will you be replaced or will you be sitting next to a robot. Management Services, v. 60, n. 2, p. 22-27, 2016.
+
+HOFMANN, Peter & Samp, Caroline & Urbach, Nils. Robotic Process Automation. Electronic Markets, 2019. 10.1007/s12525-019-00365-8. 
+
+KIRCHMER, Mathias. Robotic process automation-pragmatic solution or dangerous illusion. Business Transformation & Operational Excellence World Summit (BTOES), 2017.
+
+LE CLAIR, Craig; UIPATH, Automation Anywhere; PRISM, Blue. The Forrester Wave™: Robotic Process Automation, Q2 2018. Forrester Research, 2018.
+
+LENO, Volodymyr et al. Action logger: Enabling process mining for robotic process automation. In: Proceedings of the Dissertation Award, Doctoral Consortium, and Demonstration Track at 17th International Conference on Business Process Management,(BPM’19), Vienna, Austria. 2019. p. 124-128.
+
+SYED, Rehan et al. Robotic Process Automation: Contemporary themes and challenges. Computers in Industry, v. 115, p. 103162, 2020.
+
+TELI, Ruchira; PRASAD, Suneel Kumar. Delivering Value in Procurement With Robotic Cognitive Automation (RCA) Services. In: Robotic Systems: Concepts, Methodologies, Tools, and Applications. IGI Global, 2020. p. 1773-1785.
+
+Tornbohm C (2017) Gartner market guide for robotic process automation software. Report G00319864. Gartner
+
+VAN DER AALST, Wil MP; BICHLER, Martin; HEINZL, Armin. Robotic process automation. 2018.
