@@ -5,16 +5,25 @@
 # *Definição:*
 Automação Robótica de Processos  (Robotic Process Automation - RPA) é um termo genérico para ferramentas que operam em interface do usuário de outros sistemas de computador para imitar o comportamento humano em tarefas repetitivas. RPA visa substituir as pessoas por automação feita de maneira “de fora para dentro” (VAN DER AALST, 2018).  
 
+As ferramentas RPA executam instruções [if, then, else] em dados, normalmente usando uma combinação de interface do usuário, interações ou conectando-se a APIs para direcionar servidores clientes, mainframes ou código HTML. Elas mapeiam um processo descrito na linguagem da ferramenta RPA para o robô de software seguir, com o tempo de execução alocado para executar o script por um painel de controle (TORNBOHM, 2017; VAN DER AALST, 2018). 
+
 # *Propósito e aplicações*
-* Captura de documentos e transformação em dados estruturados;
-* Download/upload de arquivos;
-* Envio e recebimento de e-mails;
-* Extração de informações de outros sistemas, abastecendo o sistema interno (capturar informações contidas em planilhas, arquivos, textos ou PDF)
-* Gerenciamento de eventos;
-* Integração entre sistemas s/ necessidade de desenvolvolvimento ou customização;
 * Preenchimento de formulários e/ou digitações em sites ou sistemas com informações obtidas de diferentes fontes;
+* Extração de informações de outros sistemas, abastecendo o sistema interno (capturar informações contidas em planilhas, arquivos, textos ou PDF)
 * Verificação e comparação de conteúdo entre duas ou mais fontes distintas de documentos;
+* Download/upload de arquivos;
+* Integração entre sistemas s/ necessidade de desenvolv// ou customização
+* Envio e recebimento de e-mails
+* Gerenciamento de eventos
+* Captura de documentos e transformação em dados estruturados
 * Processos com tarefas repetitivas em geral...
+
+# *Benefícios*
+* Agilidade;
+* Consistência;
+* Dispensa colaboradores de tarefas repetitivas;
+* Precisão;
+* Uniformidade;
 
 # *Referências Bibliográficas*
 AGATON, BJÖRN; SWEDBERG, GUSTAV. Evaluating and Developing Methods to Assess Business Process Suitability for Robotic Process Automation. Department of Computer Science and Engineering, 2018.
