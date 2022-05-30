@@ -5,7 +5,7 @@
 # AGENDA DO EVENTO (30/MAIO/22)
 **HORÁRIO** | **ATIVIDADE**
 :------: | :------ 
-14:00  | Recepção e acolhimento
+14:00  | Recepção e acolhimento (Rev. Jabis)
 14:05  | Passar vídeo institucional Mackenzie: http://bit.ly/mack2022
 14:15  | Apresentação – Prof. Massaki  e Alunos
 14:30  | Introdução sobre o Tema Automação Robótica de Processos
