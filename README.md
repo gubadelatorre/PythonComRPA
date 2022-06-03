@@ -2,20 +2,11 @@
 ## Prof. Massaki de Oliveira Igarashi (prof.massaki@gmail.com)
 ![IMAGEM1](https://github.com/massakiigarashi2/PythonComRPA/blob/main/evento1.jpg)
 
-# AGENDA DO EVENTO (30/MAIO/22)
+# AGENDA DO EVENTO
 **HORÁRIO** | **ATIVIDADE**
 :------: | :------ 
-14:00  | Recepção e acolhimento (Rev. Jabis)
-14:05  | Passar vídeo institucional Mackenzie: http://bit.ly/mack2022
-14:15  | Apresentação – Prof. Massaki  e Alunos
-14:30  | Introdução sobre o Tema Automação Robótica de Processos
-14:45  | Apresentação Linguagem Python
-14:55  | Pré-requisitos para Automação Robótica usando Python
-15:00  | Automação Robótica de Processos usando Linguagem Python
-16:00  | Tempo para a turma praticar e intervalo para uma água e/ou café rápido
-16:30  | Formação de equipes para uma competição
-17:15  | Apresentação dos resultados
-18:00  | Término do evento!
+14:00  | Recepção e acolhimento 
+
 
 
 # *Definição:*
