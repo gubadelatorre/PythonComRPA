@@ -1,6 +1,6 @@
 # Introdução a Linguagem Python com RPA
 ## Prof. Massaki de Oliveira Igarashi (prof.massaki@gmail.com)
-![IMAGEM1](https://github.com/massakiigarashi2/PythonComRPA/blob/main/Divulgação RPApython2 - 12set22 - versao1.jpg)
+![IMAGEM1](https://github.com/massakiigarashi2/PythonComRPA/blob/main/evento2_12set22.jpeg)
 
 # AGENDA DO EVENTO
 **HORÁRIO** | **ATIVIDADE**
